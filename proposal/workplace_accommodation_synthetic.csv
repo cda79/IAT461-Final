@@ -1,0 +1,261 @@
+request_id,disability_category,accommodation_category,employee_tenure_years,hourly_wage_usd,has_college_degree,is_cost_incurred,accommodation_cost_usd,request_severity_level,remote_work_status,department,hr_reviewer_id,approval_status,denial_reason,days_to_implement,retained_6mo
+REQ-1000,Mental Health,Assistive technology,4.3,22.46,1,0,0.0,Medium,Hybrid,Sales,HR-107,Denied,Undue Hardship,,0
+REQ-1001,Chronic Medical,Assistive technology,5.6,21.83,1,0,0.0,Low,Remote,Operations,HR-101,Denied,Alternative Offered,,0
+REQ-1002,Cognitive/Neurological,Communication aid,7.5,26.43,1,1,2321.51,Medium,Hybrid,Engineering,HR-103,Approved,N/A,16.0,1
+REQ-1003,Chronic Medical,Schedule modification,1.6,20.24,1,0,0.0,Low,On-site,Operations,HR-104,Denied,Undue Hardship,,0
+REQ-1004,Chronic Medical,Schedule modification,2.3,25.84,0,1,79.8,Low,Hybrid,Operations,HR-104,Approved,N/A,19.0,1
+REQ-1005,Sensory,Assistive technology,1.8,30.57,1,0,0.0,High,On-site,Customer Support,HR-105,Approved,N/A,11.0,1
+REQ-1006,Cognitive/Neurological,Schedule modification,10.7,24.8,1,0,0.0,Medium,Hybrid,Operations,HR-103,Partially Approved,N/A,21.0,1
+REQ-1007,Cognitive/Neurological,Assistive technology,2.3,21.25,0,0,0.0,Medium,Remote,Customer Support,HR-103,Denied,Lack of Documentation,,0
+REQ-1008,Cognitive/Neurological,Physical workspace,3.7,17.73,1,0,0.0,Low,Hybrid,Customer Support,HR-101,Partially Approved,N/A,10.0,1
+REQ-1009,Chronic Medical,Physical workspace,2.5,21.12,1,0,0.0,High,Remote,Customer Support,HR-107,Approved,N/A,6.0,1
+REQ-1010,Mental Health,Assistive technology,5.8,25.32,0,1,556.76,Medium,On-site,Customer Support,HR-110,Approved,N/A,24.0,1
+REQ-1011,Cognitive/Neurological,Assistive technology,1.6,14.84,1,1,534.83,Medium,Hybrid,Sales,HR-101,Denied,Lack of Documentation,,0
+REQ-1012,Chronic Medical,Assistive technology,2.1,26.66,1,0,0.0,Medium,Hybrid,Sales,HR-102,Approved,N/A,65.0,1
+REQ-1013,Sensory,Physical workspace,1.2,23.54,1,1,1224.47,Low,On-site,Sales,HR-104,Partially Approved,N/A,14.0,1
+REQ-1014,Mental Health,Schedule modification,12.6,21.75,1,1,124.69,Low,Remote,Customer Support,HR-104,Partially Approved,N/A,33.0,1
+REQ-1015,Sensory,Physical workspace,1.0,19.2,1,1,1591.97,Medium,On-site,Engineering,HR-105,Approved,N/A,26.0,1
+REQ-1016,Mental Health,Communication aid,12.3,20.12,1,0,0.0,Low,Hybrid,Finance,HR-102,Approved,N/A,16.0,1
+REQ-1017,Chronic Medical,Assistive technology,0.7,25.49,1,0,0.0,Low,Hybrid,Operations,HR-104,Approved,N/A,7.0,1
+REQ-1018,Physical/Mobility,Communication aid,4.6,21.86,1,0,0.0,High,Hybrid,Sales,HR-101,Approved,N/A,13.0,1
+REQ-1019,Mental Health,Assistive technology,8.5,19.99,0,0,0.0,Medium,On-site,Engineering,HR-102,Approved,N/A,44.0,1
+REQ-1020,Sensory,Assistive technology,3.8,24.84,0,0,0.0,Medium,Hybrid,Operations,HR-101,Approved,N/A,9.0,0
+REQ-1021,Chronic Medical,Physical workspace,11.3,25.04,1,1,1308.34,Medium,Hybrid,Operations,HR-110,Approved,N/A,31.0,1
+REQ-1022,Mental Health,Physical workspace,2.5,16.25,1,0,0.0,Medium,Remote,Operations,HR-110,Partially Approved,N/A,9.0,1
+REQ-1023,Physical/Mobility,Policy modification,10.7,25.36,0,0,0.0,Low,On-site,Sales,HR-104,Approved,N/A,14.0,1
+REQ-1024,Physical/Mobility,Schedule modification,4.9,35.01,1,1,97.17,Low,On-site,Sales,HR-104,Approved,N/A,11.0,0
+REQ-1025,Cognitive/Neurological,Assistive technology,2.8,24.85,1,1,392.09,Low,Hybrid,Engineering,HR-107,Partially Approved,N/A,23.0,1
+REQ-1026,Cognitive/Neurological,Physical workspace,4.7,14.0,0,0,0.0,Low,On-site,Engineering,HR-110,Denied,Undue Hardship,,1
+REQ-1027,Sensory,Policy modification,7.4,23.39,1,1,124.28,Medium,Hybrid,Operations,HR-109,Approved,N/A,19.0,0
+REQ-1028,Mental Health,Schedule modification,1.2,13.35,0,0,0.0,Low,Hybrid,Operations,HR-109,Partially Approved,N/A,37.0,0
+REQ-1029,Mental Health,Communication aid,2.4,38.34,0,0,0.0,Medium,Remote,Customer Support,HR-105,Approved,N/A,8.0,1
+REQ-1030,Cognitive/Neurological,Assistive technology,1.9,33.68,1,0,0.0,Low,Hybrid,Operations,HR-110,Partially Approved,N/A,3.0,1
+REQ-1031,Mental Health,Schedule modification,2.4,19.17,1,0,0.0,Low,Hybrid,Customer Support,HR-101,Approved,N/A,32.0,1
+REQ-1032,Mental Health,Policy modification,4.2,11.27,1,0,0.0,Medium,On-site,Customer Support,HR-101,Partially Approved,N/A,14.0,1
+REQ-1033,Physical/Mobility,Physical workspace,2.9,18.11,0,0,0.0,Low,On-site,Sales,HR-106,Partially Approved,N/A,11.0,1
+REQ-1034,Cognitive/Neurological,Communication aid,8.0,21.6,0,0,0.0,Low,On-site,Finance,HR-102,Denied,Undue Hardship,,1
+REQ-1035,Chronic Medical,Assistive technology,2.6,13.69,0,0,0.0,Low,On-site,Engineering,HR-108,Partially Approved,N/A,1.0,0
+REQ-1036,Cognitive/Neurological,Physical workspace,5.6,22.15,1,0,0.0,Low,Hybrid,Finance,HR-109,Approved,N/A,11.0,1
+REQ-1037,Chronic Medical,Physical workspace,10.2,21.56,0,1,1431.93,Medium,Hybrid,Operations,HR-104,Denied,Alternative Offered,,1
+REQ-1038,Physical/Mobility,Communication aid,6.4,23.13,0,1,1140.58,Low,Hybrid,Engineering,HR-105,Approved,N/A,17.0,1
+REQ-1039,Sensory,Schedule modification,9.4,23.65,1,0,0.0,Low,Hybrid,Customer Support,HR-108,Approved,N/A,11.0,1
+REQ-1040,Mental Health,Assistive technology,4.9,17.67,0,0,0.0,Medium,Remote,Operations,HR-103,Partially Approved,N/A,34.0,0
+REQ-1041,Physical/Mobility,Schedule modification,4.3,18.23,0,0,0.0,Low,Hybrid,Customer Support,HR-105,Approved,N/A,6.0,1
+REQ-1042,Mental Health,Schedule modification,1.9,22.73,0,0,0.0,High,Hybrid,Finance,HR-103,Denied,Lack of Documentation,,1
+REQ-1043,Sensory,Assistive technology,4.6,19.35,1,1,538.22,Medium,Hybrid,Finance,HR-110,Approved,N/A,21.0,1
+REQ-1044,Sensory,Assistive technology,7.6,27.04,1,0,0.0,Medium,On-site,Sales,HR-103,Approved,N/A,6.0,1
+REQ-1045,Physical/Mobility,Assistive technology,3.8,22.68,1,0,0.0,Medium,On-site,Sales,HR-103,Approved,N/A,8.0,1
+REQ-1046,Sensory,Policy modification,8.1,31.83,1,1,84.7,Low,On-site,Finance,HR-107,Approved,N/A,14.0,1
+REQ-1047,Chronic Medical,Communication aid,6.6,26.6,1,1,2326.78,Medium,Remote,Customer Support,HR-107,Partially Approved,N/A,16.0,1
+REQ-1048,Sensory,Schedule modification,4.6,28.02,0,1,149.23,Low,Hybrid,Engineering,HR-107,Denied,Ineligible,,0
+REQ-1049,Mental Health,Schedule modification,2.8,23.16,0,0,0.0,High,On-site,Engineering,HR-110,Denied,Ineligible,,0
+REQ-1050,Mental Health,Physical workspace,0.6,23.29,0,0,0.0,Low,On-site,Customer Support,HR-108,Approved,N/A,17.0,1
+REQ-1051,Mental Health,Assistive technology,7.9,31.16,1,0,0.0,Medium,Hybrid,Finance,HR-105,Approved,N/A,32.0,1
+REQ-1052,Mental Health,Schedule modification,0.7,20.61,1,0,0.0,Medium,On-site,Operations,HR-105,Approved,N/A,20.0,1
+REQ-1053,Chronic Medical,Schedule modification,11.1,25.23,1,1,85.65,Low,On-site,Customer Support,HR-104,Partially Approved,N/A,20.0,1
+REQ-1054,Cognitive/Neurological,Assistive technology,2.2,21.17,0,1,535.01,Low,Remote,Engineering,HR-107,Partially Approved,N/A,5.0,1
+REQ-1055,Physical/Mobility,Policy modification,12.2,21.16,0,1,240.06,Medium,On-site,Sales,HR-110,Approved,N/A,4.0,0
+REQ-1056,Mental Health,Schedule modification,4.4,16.66,0,1,90.59,Medium,On-site,Operations,HR-104,Approved,N/A,12.0,1
+REQ-1057,Sensory,Physical workspace,5.4,18.79,1,0,0.0,Low,Hybrid,Engineering,HR-102,Denied,Alternative Offered,,1
+REQ-1058,Mental Health,Physical workspace,1.2,17.86,0,1,1462.71,Medium,Remote,Sales,HR-104,Partially Approved,N/A,37.0,1
+REQ-1059,Sensory,Schedule modification,1.2,25.47,0,0,0.0,High,Hybrid,Engineering,HR-108,Approved,N/A,1.0,1
+REQ-1060,Sensory,Assistive technology,6.1,27.7,1,0,0.0,High,On-site,Customer Support,HR-109,Approved,N/A,3.0,1
+REQ-1061,Mental Health,Schedule modification,1.3,22.03,0,0,0.0,Low,On-site,Finance,HR-103,Approved,N/A,29.0,1
+REQ-1062,Chronic Medical,Physical workspace,1.4,23.65,1,0,0.0,Medium,On-site,Sales,HR-107,Partially Approved,N/A,25.0,1
+REQ-1063,Sensory,Schedule modification,4.6,21.74,1,0,0.0,Low,Hybrid,Customer Support,HR-109,Approved,N/A,3.0,1
+REQ-1064,Sensory,Schedule modification,14.3,18.45,1,1,163.11,High,Hybrid,Customer Support,HR-104,Denied,Undue Hardship,,1
+REQ-1065,Mental Health,Physical workspace,4.8,26.81,1,0,0.0,Medium,On-site,Finance,HR-110,Partially Approved,N/A,3.0,1
+REQ-1066,Sensory,Schedule modification,2.1,25.76,1,0,0.0,Low,Remote,Engineering,HR-103,Approved,N/A,5.0,0
+REQ-1067,Sensory,Schedule modification,4.1,13.04,1,0,0.0,Medium,On-site,Customer Support,HR-105,Approved,N/A,3.0,1
+REQ-1068,Mental Health,Assistive technology,4.4,21.08,1,1,521.8,Low,On-site,Sales,HR-101,Approved,N/A,25.0,1
+REQ-1069,Mental Health,Schedule modification,3.4,18.09,1,0,0.0,High,On-site,Operations,HR-103,Approved,N/A,50.0,1
+REQ-1070,Physical/Mobility,Policy modification,4.6,20.55,1,1,167.3,High,On-site,Customer Support,HR-108,Denied,Lack of Documentation,,0
+REQ-1071,Chronic Medical,Schedule modification,7.6,19.15,1,0,0.0,Medium,Hybrid,Engineering,HR-108,Approved,N/A,10.0,0
+REQ-1072,Chronic Medical,Physical workspace,5.9,22.27,1,1,1702.66,Low,Hybrid,Customer Support,HR-104,Partially Approved,N/A,29.0,1
+REQ-1073,Sensory,Assistive technology,3.1,20.85,1,0,0.0,Medium,On-site,Operations,HR-102,Approved,N/A,9.0,1
+REQ-1074,Chronic Medical,Physical workspace,7.8,20.74,1,1,1328.64,Low,Hybrid,Engineering,HR-108,Denied,Lack of Documentation,,0
+REQ-1075,Sensory,Assistive technology,2.1,28.04,1,1,469.73,Low,On-site,Operations,HR-108,Denied,Lack of Documentation,,0
+REQ-1076,Physical/Mobility,Schedule modification,6.3,25.29,1,0,0.0,Medium,Hybrid,Engineering,HR-110,Approved,N/A,10.0,1
+REQ-1077,Mental Health,Communication aid,4.4,18.98,1,0,0.0,Low,Remote,Customer Support,HR-104,Denied,Ineligible,,1
+REQ-1078,Mental Health,Policy modification,1.9,19.72,0,0,0.0,Low,On-site,Sales,HR-103,Denied,Ineligible,,1
+REQ-1079,Mental Health,Policy modification,0.4,24.96,1,0,0.0,High,Hybrid,Operations,HR-102,Denied,Alternative Offered,,0
+REQ-1080,Chronic Medical,Schedule modification,3.0,24.95,1,0,0.0,Low,On-site,Sales,HR-109,Approved,N/A,35.0,1
+REQ-1081,Physical/Mobility,Schedule modification,11.5,19.48,0,1,206.52,Low,On-site,Operations,HR-101,Approved,N/A,7.0,0
+REQ-1082,Chronic Medical,Assistive technology,6.2,21.33,0,0,0.0,High,On-site,Operations,HR-107,Approved,N/A,38.0,1
+REQ-1083,Chronic Medical,Assistive technology,0.5,31.73,0,0,0.0,Low,Hybrid,Customer Support,HR-105,Denied,Undue Hardship,,1
+REQ-1084,Physical/Mobility,Assistive technology,8.6,19.57,0,0,0.0,Medium,Hybrid,Operations,HR-108,Approved,N/A,15.0,1
+REQ-1085,Physical/Mobility,Policy modification,1.1,32.05,1,0,0.0,High,On-site,Operations,HR-104,Approved,N/A,20.0,1
+REQ-1086,Physical/Mobility,Schedule modification,6.4,28.02,1,1,61.23,High,Hybrid,Engineering,HR-107,Approved,N/A,9.0,1
+REQ-1087,Physical/Mobility,Communication aid,2.5,31.13,1,0,0.0,Medium,Hybrid,Sales,HR-105,Approved,N/A,4.0,1
+REQ-1088,Mental Health,Assistive technology,1.3,19.35,1,1,408.86,Low,Hybrid,Finance,HR-105,Partially Approved,N/A,10.0,0
+REQ-1089,Cognitive/Neurological,Policy modification,4.8,21.66,1,1,125.38,Low,Hybrid,Engineering,HR-109,Denied,Ineligible,,1
+REQ-1090,Cognitive/Neurological,Schedule modification,7.8,20.25,1,1,142.35,Medium,Hybrid,Operations,HR-109,Partially Approved,N/A,18.0,1
+REQ-1091,Physical/Mobility,Assistive technology,4.1,28.13,1,1,502.87,High,On-site,Finance,HR-109,Denied,Undue Hardship,,0
+REQ-1092,Cognitive/Neurological,Physical workspace,5.8,19.66,0,0,0.0,Medium,On-site,Engineering,HR-106,Denied,Undue Hardship,,1
+REQ-1093,Cognitive/Neurological,Schedule modification,5.2,26.16,0,1,146.18,Low,Remote,Customer Support,HR-106,Approved,N/A,24.0,1
+REQ-1094,Physical/Mobility,Schedule modification,13.0,25.89,1,0,0.0,Low,On-site,Customer Support,HR-105,Approved,N/A,23.0,1
+REQ-1095,Cognitive/Neurological,Communication aid,1.9,22.26,0,0,0.0,Low,Remote,Customer Support,HR-109,Approved,N/A,32.0,1
+REQ-1096,Chronic Medical,Physical workspace,6.6,28.99,1,1,1408.16,Medium,Hybrid,Engineering,HR-110,Partially Approved,N/A,16.0,1
+REQ-1097,Sensory,Schedule modification,8.2,23.04,0,1,191.2,Medium,On-site,Engineering,HR-108,Partially Approved,N/A,13.0,1
+REQ-1098,Sensory,Assistive technology,7.2,26.67,1,1,439.72,High,On-site,Customer Support,HR-107,Approved,N/A,9.0,1
+REQ-1099,Physical/Mobility,Assistive technology,3.6,20.03,0,0,0.0,Medium,On-site,Operations,HR-107,Approved,N/A,5.0,1
+REQ-1100,Mental Health,Physical workspace,5.9,18.88,0,0,0.0,Low,Remote,Operations,HR-106,Approved,N/A,39.0,0
+REQ-1101,Physical/Mobility,Schedule modification,15.0,26.16,1,1,176.23,Medium,On-site,Customer Support,HR-105,Approved,N/A,14.0,1
+REQ-1102,Mental Health,Schedule modification,0.5,24.65,1,0,0.0,Medium,On-site,Engineering,HR-104,Approved,N/A,6.0,1
+REQ-1103,Sensory,Schedule modification,2.6,23.72,1,1,59.97,Medium,On-site,Customer Support,HR-103,Approved,N/A,20.0,0
+REQ-1104,Physical/Mobility,Assistive technology,5.1,20.78,1,1,422.58,Medium,On-site,Sales,HR-103,Approved,N/A,22.0,1
+REQ-1105,Chronic Medical,Physical workspace,3.9,30.25,1,0,0.0,Medium,On-site,Finance,HR-106,Approved,N/A,14.0,1
+REQ-1106,Cognitive/Neurological,Schedule modification,1.7,16.92,1,0,0.0,Medium,On-site,Operations,HR-104,Approved,N/A,53.0,0
+REQ-1107,Mental Health,Communication aid,2.6,16.64,1,0,0.0,Low,Hybrid,Operations,HR-106,Partially Approved,N/A,11.0,1
+REQ-1108,Cognitive/Neurological,Assistive technology,2.7,27.21,0,0,0.0,Low,On-site,Finance,HR-103,Partially Approved,N/A,35.0,1
+REQ-1109,Cognitive/Neurological,Schedule modification,1.3,26.8,0,1,234.52,Medium,On-site,Engineering,HR-104,Partially Approved,N/A,33.0,1
+REQ-1110,Physical/Mobility,Schedule modification,6.1,24.27,1,0,0.0,Low,On-site,Operations,HR-109,Approved,N/A,13.0,1
+REQ-1111,Cognitive/Neurological,Schedule modification,6.8,21.06,1,1,144.41,Low,On-site,Sales,HR-105,Partially Approved,N/A,17.0,1
+REQ-1112,Chronic Medical,Communication aid,2.6,25.01,1,0,0.0,Low,Remote,Finance,HR-107,Approved,N/A,9.0,1
+REQ-1113,Cognitive/Neurological,Physical workspace,2.3,31.1,0,1,900.21,Medium,Hybrid,Sales,HR-110,Denied,Lack of Documentation,,0
+REQ-1114,Physical/Mobility,Assistive technology,7.4,35.08,1,0,0.0,Low,On-site,Operations,HR-102,Approved,N/A,14.0,1
+REQ-1115,Chronic Medical,Physical workspace,0.7,14.22,0,0,0.0,Medium,Hybrid,Operations,HR-105,Partially Approved,N/A,16.0,0
+REQ-1116,Sensory,Assistive technology,6.2,20.41,0,0,0.0,High,On-site,Engineering,HR-109,Partially Approved,N/A,20.0,1
+REQ-1117,Cognitive/Neurological,Physical workspace,5.2,20.09,1,1,913.78,Low,On-site,Sales,HR-103,Denied,Undue Hardship,,0
+REQ-1118,Physical/Mobility,Schedule modification,14.5,30.63,1,1,207.43,Low,Remote,Operations,HR-109,Approved,N/A,1.0,1
+REQ-1119,Sensory,Physical workspace,0.9,10.09,0,1,913.92,Low,Hybrid,Customer Support,HR-106,Denied,Ineligible,,0
+REQ-1120,Sensory,Schedule modification,2.2,25.07,0,0,0.0,High,Remote,Sales,HR-104,Approved,N/A,7.0,1
+REQ-1121,Mental Health,Schedule modification,4.3,21.22,1,0,0.0,Low,On-site,Sales,HR-107,Denied,Lack of Documentation,,0
+REQ-1122,Chronic Medical,Assistive technology,0.6,30.69,1,0,0.0,Low,Hybrid,Engineering,HR-108,Approved,N/A,55.0,1
+REQ-1123,Cognitive/Neurological,Schedule modification,2.2,30.01,0,0,0.0,Low,On-site,Operations,HR-106,Partially Approved,N/A,20.0,1
+REQ-1124,Physical/Mobility,Schedule modification,12.5,24.33,1,0,0.0,Medium,On-site,Customer Support,HR-105,Approved,N/A,13.0,1
+REQ-1125,Mental Health,Assistive technology,4.1,14.6,0,1,443.35,Medium,Hybrid,Engineering,HR-106,Denied,Alternative Offered,,0
+REQ-1126,Chronic Medical,Communication aid,7.5,19.63,1,1,1508.3,Medium,On-site,Sales,HR-105,Denied,Ineligible,,0
+REQ-1127,Mental Health,Schedule modification,8.3,20.18,1,1,218.96,High,Hybrid,Sales,HR-108,Denied,Undue Hardship,,1
+REQ-1128,Chronic Medical,Schedule modification,6.7,15.87,0,1,103.63,Low,Hybrid,Engineering,HR-101,Approved,N/A,34.0,1
+REQ-1129,Chronic Medical,Policy modification,1.9,28.27,1,0,0.0,Medium,On-site,Sales,HR-107,Approved,N/A,21.0,1
+REQ-1130,Cognitive/Neurological,Policy modification,4.5,15.23,1,0,0.0,Low,Hybrid,Sales,HR-110,Denied,Lack of Documentation,,0
+REQ-1131,Chronic Medical,Assistive technology,1.8,32.33,1,0,0.0,High,Hybrid,Sales,HR-110,Approved,N/A,17.0,1
+REQ-1132,Mental Health,Assistive technology,4.3,32.31,1,1,474.53,Medium,On-site,Operations,HR-102,Partially Approved,N/A,22.0,1
+REQ-1133,Chronic Medical,Physical workspace,18.6,20.57,1,0,0.0,High,Hybrid,Sales,HR-109,Approved,N/A,26.0,0
+REQ-1134,Cognitive/Neurological,Schedule modification,10.6,24.14,1,0,0.0,Low,Hybrid,Customer Support,HR-101,Approved,N/A,17.0,1
+REQ-1135,Cognitive/Neurological,Communication aid,2.8,22.14,1,0,0.0,Low,On-site,Customer Support,HR-110,Approved,N/A,29.0,1
+REQ-1136,Mental Health,Policy modification,12.5,27.01,0,0,0.0,Low,Hybrid,Customer Support,HR-106,Partially Approved,N/A,34.0,1
+REQ-1137,Sensory,Schedule modification,6.1,28.87,1,1,81.28,Low,Remote,Customer Support,HR-109,Approved,N/A,18.0,1
+REQ-1138,Sensory,Schedule modification,3.8,23.79,1,1,220.62,Low,On-site,Customer Support,HR-101,Denied,Lack of Documentation,,1
+REQ-1139,Chronic Medical,Communication aid,5.3,24.85,1,0,0.0,Low,Hybrid,Operations,HR-104,Approved,N/A,49.0,1
+REQ-1140,Physical/Mobility,Assistive technology,7.4,19.4,0,1,462.91,Low,On-site,Customer Support,HR-104,Approved,N/A,20.0,0
+REQ-1141,Chronic Medical,Assistive technology,1.0,24.68,0,1,401.1,Medium,Hybrid,Customer Support,HR-109,Denied,Lack of Documentation,,1
+REQ-1142,Mental Health,Physical workspace,3.4,23.31,1,0,0.0,Medium,Hybrid,Operations,HR-105,Denied,Lack of Documentation,,1
+REQ-1143,Mental Health,Physical workspace,2.9,17.94,1,0,0.0,Medium,On-site,Customer Support,HR-105,Denied,Ineligible,,0
+REQ-1144,Mental Health,Communication aid,9.4,22.43,1,0,0.0,Low,On-site,Sales,HR-106,Approved,N/A,21.0,1
+REQ-1145,Mental Health,Communication aid,6.7,20.58,0,0,0.0,Medium,Hybrid,Sales,HR-101,Partially Approved,N/A,29.0,1
+REQ-1146,Mental Health,Policy modification,3.2,19.45,0,1,162.4,Low,On-site,Engineering,HR-101,Approved,N/A,52.0,1
+REQ-1147,Cognitive/Neurological,Physical workspace,2.8,16.77,0,0,0.0,High,Hybrid,Operations,HR-109,Approved,N/A,24.0,1
+REQ-1148,Sensory,Policy modification,2.8,22.81,0,1,119.18,Low,On-site,Operations,HR-103,Approved,N/A,2.0,1
+REQ-1149,Mental Health,Physical workspace,8.1,18.6,0,0,0.0,Medium,Remote,Finance,HR-104,Approved,N/A,72.0,0
+REQ-1150,Physical/Mobility,Physical workspace,0.9,20.14,1,0,0.0,High,Hybrid,Customer Support,HR-101,Approved,N/A,7.0,1
+REQ-1151,Physical/Mobility,Schedule modification,10.6,27.88,1,0,0.0,Medium,Remote,Customer Support,HR-109,Approved,N/A,3.0,1
+REQ-1152,Physical/Mobility,Policy modification,5.9,25.66,1,0,0.0,Medium,On-site,Engineering,HR-108,Approved,N/A,19.0,1
+REQ-1153,Physical/Mobility,Policy modification,10.0,17.61,1,0,0.0,Medium,Hybrid,Customer Support,HR-102,Approved,N/A,10.0,1
+REQ-1154,Cognitive/Neurological,Physical workspace,0.9,24.26,0,1,1521.34,High,Hybrid,Customer Support,HR-108,Approved,N/A,53.0,1
+REQ-1155,Physical/Mobility,Policy modification,5.9,23.16,1,0,0.0,Medium,On-site,Finance,HR-107,Approved,N/A,14.0,1
+REQ-1156,Mental Health,Physical workspace,0.9,31.01,1,1,981.55,Medium,On-site,Sales,HR-106,Denied,Undue Hardship,,1
+REQ-1157,Chronic Medical,Schedule modification,8.5,29.42,1,0,0.0,Medium,On-site,Customer Support,HR-101,Approved,N/A,19.0,1
+REQ-1158,Physical/Mobility,Schedule modification,2.3,14.83,1,0,0.0,Medium,Hybrid,Customer Support,HR-107,Approved,N/A,38.0,1
+REQ-1159,Cognitive/Neurological,Schedule modification,4.4,26.81,1,0,0.0,Medium,Hybrid,Customer Support,HR-110,Denied,Alternative Offered,,0
+REQ-1160,Cognitive/Neurological,Assistive technology,1.0,28.83,1,0,0.0,Medium,On-site,Customer Support,HR-107,Approved,N/A,11.0,1
+REQ-1161,Physical/Mobility,Schedule modification,8.9,25.3,1,0,0.0,Low,Hybrid,Operations,HR-109,Approved,N/A,5.0,1
+REQ-1162,Chronic Medical,Physical workspace,4.8,20.82,1,0,0.0,Low,On-site,Sales,HR-101,Denied,Ineligible,,1
+REQ-1163,Physical/Mobility,Assistive technology,1.6,34.57,1,0,0.0,Low,On-site,Operations,HR-102,Approved,N/A,4.0,1
+REQ-1164,Cognitive/Neurological,Physical workspace,1.5,25.76,1,0,0.0,Low,Remote,Customer Support,HR-109,Partially Approved,N/A,26.0,1
+REQ-1165,Sensory,Assistive technology,2.6,32.38,1,0,0.0,Low,Remote,Operations,HR-109,Approved,N/A,1.0,0
+REQ-1166,Mental Health,Physical workspace,9.0,29.26,1,0,0.0,Medium,Hybrid,Operations,HR-106,Partially Approved,N/A,17.0,1
+REQ-1167,Cognitive/Neurological,Assistive technology,8.7,24.82,1,1,434.92,Low,On-site,Sales,HR-106,Denied,Undue Hardship,,1
+REQ-1168,Physical/Mobility,Schedule modification,3.0,19.6,0,1,196.49,Medium,Hybrid,Sales,HR-104,Approved,N/A,4.0,1
+REQ-1169,Mental Health,Assistive technology,5.0,22.38,1,0,0.0,Low,On-site,Finance,HR-104,Approved,N/A,27.0,0
+REQ-1170,Physical/Mobility,Physical workspace,13.2,21.39,1,0,0.0,Low,On-site,Customer Support,HR-105,Approved,N/A,3.0,1
+REQ-1171,Physical/Mobility,Assistive technology,11.7,16.43,0,1,426.3,Medium,On-site,Finance,HR-103,Approved,N/A,3.0,0
+REQ-1172,Sensory,Communication aid,4.1,25.75,1,1,1930.61,Medium,Hybrid,Engineering,HR-101,Denied,Ineligible,,0
+REQ-1173,Mental Health,Schedule modification,4.5,30.34,1,0,0.0,Low,Hybrid,Customer Support,HR-101,Approved,N/A,33.0,1
+REQ-1174,Mental Health,Assistive technology,3.6,21.01,0,1,565.98,High,On-site,Operations,HR-107,Partially Approved,N/A,49.0,1
+REQ-1175,Sensory,Communication aid,10.6,33.32,1,0,0.0,High,Hybrid,Finance,HR-101,Approved,N/A,9.0,1
+REQ-1176,Cognitive/Neurological,Assistive technology,4.6,14.71,1,0,0.0,Low,Remote,Sales,HR-101,Denied,Lack of Documentation,,1
+REQ-1177,Physical/Mobility,Assistive technology,3.4,27.77,0,1,412.31,Low,On-site,Operations,HR-103,Approved,N/A,8.0,1
+REQ-1178,Chronic Medical,Physical workspace,8.4,30.86,0,0,0.0,High,Hybrid,Customer Support,HR-110,Approved,N/A,12.0,1
+REQ-1179,Physical/Mobility,Physical workspace,4.2,21.48,1,1,1362.74,Medium,Remote,Engineering,HR-104,Denied,Lack of Documentation,,1
+REQ-1180,Physical/Mobility,Physical workspace,1.1,21.57,1,1,1576.31,Medium,On-site,Customer Support,HR-104,Approved,N/A,3.0,1
+REQ-1181,Cognitive/Neurological,Schedule modification,8.1,27.71,1,0,0.0,Medium,On-site,Customer Support,HR-102,Approved,N/A,49.0,1
+REQ-1182,Physical/Mobility,Schedule modification,4.7,25.03,1,0,0.0,Low,Hybrid,Finance,HR-101,Approved,N/A,11.0,1
+REQ-1183,Sensory,Physical workspace,9.6,12.51,1,0,0.0,Medium,Hybrid,Customer Support,HR-103,Approved,N/A,14.0,1
+REQ-1184,Sensory,Policy modification,5.7,18.28,1,0,0.0,Low,Hybrid,Sales,HR-104,Approved,N/A,28.0,1
+REQ-1185,Mental Health,Physical workspace,3.3,22.43,1,1,1322.5,Medium,On-site,Engineering,HR-103,Denied,Undue Hardship,,1
+REQ-1186,Chronic Medical,Schedule modification,1.6,15.65,1,0,0.0,Medium,Remote,Sales,HR-108,Approved,N/A,25.0,1
+REQ-1187,Physical/Mobility,Physical workspace,10.3,20.13,0,0,0.0,Medium,On-site,Sales,HR-110,Denied,Ineligible,,1
+REQ-1188,Physical/Mobility,Physical workspace,7.2,15.78,0,1,1198.59,Low,On-site,Operations,HR-101,Partially Approved,N/A,18.0,1
+REQ-1189,Cognitive/Neurological,Schedule modification,5.3,20.65,1,0,0.0,Low,Hybrid,Sales,HR-102,Denied,Alternative Offered,,1
+REQ-1190,Sensory,Assistive technology,7.7,20.82,1,1,494.6,Medium,On-site,Finance,HR-107,Approved,N/A,9.0,1
+REQ-1191,Chronic Medical,Assistive technology,1.0,24.26,1,0,0.0,Medium,On-site,Finance,HR-104,Approved,N/A,15.0,1
+REQ-1192,Mental Health,Assistive technology,9.0,22.04,1,1,379.67,Medium,On-site,Customer Support,HR-108,Partially Approved,N/A,22.0,1
+REQ-1193,Sensory,Assistive technology,9.3,25.01,0,0,0.0,Low,On-site,Finance,HR-103,Denied,Lack of Documentation,,1
+REQ-1194,Mental Health,Schedule modification,2.4,24.42,1,0,0.0,High,On-site,Operations,HR-106,Partially Approved,N/A,2.0,1
+REQ-1195,Cognitive/Neurological,Schedule modification,3.1,27.66,1,0,0.0,Low,Remote,Customer Support,HR-109,Approved,N/A,35.0,1
+REQ-1196,Cognitive/Neurological,Schedule modification,5.1,26.87,1,0,0.0,High,On-site,Engineering,HR-101,Denied,Undue Hardship,,0
+REQ-1197,Physical/Mobility,Communication aid,1.2,26.34,1,1,881.95,Low,Hybrid,Customer Support,HR-101,Denied,Lack of Documentation,,1
+REQ-1198,Chronic Medical,Policy modification,3.8,38.02,1,1,117.65,Medium,Hybrid,Customer Support,HR-108,Approved,N/A,20.0,1
+REQ-1199,Mental Health,Assistive technology,7.7,24.24,1,1,480.71,Low,Remote,Operations,HR-103,Partially Approved,N/A,3.0,1
+REQ-1200,Sensory,Communication aid,8.6,35.47,0,0,0.0,High,On-site,Customer Support,HR-105,Approved,N/A,5.0,1
+REQ-1201,Cognitive/Neurological,Physical workspace,1.7,24.56,1,0,0.0,Medium,Remote,Operations,HR-101,Approved,N/A,20.0,1
+REQ-1202,Physical/Mobility,Assistive technology,13.5,22.09,1,0,0.0,Low,Hybrid,Customer Support,HR-105,Approved,N/A,5.0,1
+REQ-1203,Physical/Mobility,Assistive technology,8.8,20.63,1,0,0.0,Low,Hybrid,Engineering,HR-106,Denied,Alternative Offered,,0
+REQ-1204,Mental Health,Schedule modification,9.1,30.05,1,1,243.47,Low,Hybrid,Finance,HR-108,Partially Approved,N/A,8.0,1
+REQ-1205,Cognitive/Neurological,Schedule modification,4.1,30.7,0,0,0.0,Low,Hybrid,Customer Support,HR-103,Denied,Lack of Documentation,,0
+REQ-1206,Chronic Medical,Physical workspace,10.3,25.5,1,0,0.0,High,On-site,Sales,HR-103,Approved,N/A,31.0,1
+REQ-1207,Cognitive/Neurological,Physical workspace,13.2,28.17,0,0,0.0,Medium,Hybrid,Customer Support,HR-110,Denied,Lack of Documentation,,1
+REQ-1208,Mental Health,Schedule modification,4.1,16.11,1,1,86.6,Medium,Hybrid,Engineering,HR-109,Denied,Alternative Offered,,1
+REQ-1209,Mental Health,Communication aid,1.9,14.76,1,1,540.11,Medium,Hybrid,Customer Support,HR-104,Approved,N/A,36.0,1
+REQ-1210,Cognitive/Neurological,Policy modification,1.9,28.73,1,1,194.0,Medium,Remote,Customer Support,HR-104,Partially Approved,N/A,40.0,0
+REQ-1211,Mental Health,Schedule modification,3.9,21.87,0,0,0.0,Low,On-site,Sales,HR-107,Partially Approved,N/A,31.0,1
+REQ-1212,Cognitive/Neurological,Communication aid,16.9,26.25,1,0,0.0,Low,Remote,Finance,HR-102,Denied,Lack of Documentation,,0
+REQ-1213,Sensory,Communication aid,10.5,18.91,1,1,1474.28,Medium,On-site,Customer Support,HR-108,Denied,Undue Hardship,,1
+REQ-1214,Cognitive/Neurological,Communication aid,2.8,30.78,0,1,667.47,High,On-site,Sales,HR-106,Partially Approved,N/A,31.0,1
+REQ-1215,Cognitive/Neurological,Schedule modification,4.7,14.8,1,0,0.0,Low,On-site,Customer Support,HR-103,Denied,Ineligible,,1
+REQ-1216,Mental Health,Physical workspace,3.5,15.57,1,1,1160.58,Low,On-site,Finance,HR-109,Denied,Undue Hardship,,1
+REQ-1217,Mental Health,Assistive technology,7.4,29.72,1,1,497.0,Medium,Hybrid,Engineering,HR-105,Approved,N/A,13.0,1
+REQ-1218,Physical/Mobility,Physical workspace,3.8,9.45,0,1,1774.41,High,On-site,Sales,HR-108,Denied,Alternative Offered,,0
+REQ-1219,Physical/Mobility,Communication aid,3.8,24.39,1,1,7588.77,Low,On-site,Engineering,HR-107,Approved,N/A,10.0,1
+REQ-1220,Sensory,Physical workspace,6.2,21.96,0,0,0.0,Medium,Remote,Engineering,HR-108,Approved,N/A,12.0,1
+REQ-1221,Physical/Mobility,Policy modification,0.7,18.82,0,0,0.0,High,Hybrid,Operations,HR-107,Approved,N/A,3.0,1
+REQ-1222,Cognitive/Neurological,Policy modification,3.8,21.5,1,0,0.0,Low,Hybrid,Operations,HR-103,Denied,Ineligible,,0
+REQ-1223,Mental Health,Policy modification,5.0,18.26,0,1,95.48,Low,Remote,Sales,HR-102,Denied,Lack of Documentation,,1
+REQ-1224,Physical/Mobility,Assistive technology,5.0,30.21,1,1,551.21,Medium,Hybrid,Customer Support,HR-107,Approved,N/A,13.0,1
+REQ-1225,Physical/Mobility,Schedule modification,2.8,31.52,1,1,208.34,High,On-site,Sales,HR-103,Approved,N/A,7.0,1
+REQ-1226,Sensory,Assistive technology,16.9,19.07,0,0,0.0,Low,On-site,Finance,HR-103,Approved,N/A,6.0,1
+REQ-1227,Sensory,Policy modification,12.1,23.88,0,1,159.77,Medium,Hybrid,Finance,HR-102,Approved,N/A,9.0,1
+REQ-1228,Cognitive/Neurological,Schedule modification,2.3,15.87,1,1,172.58,Medium,On-site,Sales,HR-104,Partially Approved,N/A,13.0,1
+REQ-1229,Mental Health,Assistive technology,8.2,27.87,1,1,221.59,Medium,Hybrid,Operations,HR-108,Approved,N/A,46.0,0
+REQ-1230,Sensory,Schedule modification,2.5,27.74,1,1,95.23,Medium,On-site,Operations,HR-101,Approved,N/A,24.0,1
+REQ-1231,Physical/Mobility,Physical workspace,4.9,21.02,1,1,1129.01,Medium,On-site,Sales,HR-101,Partially Approved,N/A,28.0,1
+REQ-1232,Mental Health,Policy modification,6.8,22.58,1,0,0.0,Medium,Hybrid,Sales,HR-105,Approved,N/A,12.0,1
+REQ-1233,Mental Health,Policy modification,9.8,22.03,1,0,0.0,Medium,Hybrid,Customer Support,HR-105,Denied,Undue Hardship,,1
+REQ-1234,Physical/Mobility,Schedule modification,4.3,14.41,1,0,0.0,Medium,Hybrid,Operations,HR-101,Approved,N/A,15.0,1
+REQ-1235,Sensory,Communication aid,4.2,30.23,1,0,0.0,Medium,Hybrid,Finance,HR-106,Denied,Lack of Documentation,,0
+REQ-1236,Physical/Mobility,Physical workspace,3.3,18.67,1,1,1545.09,High,On-site,Operations,HR-101,Denied,Alternative Offered,,0
+REQ-1237,Mental Health,Assistive technology,4.6,18.7,1,1,490.43,Low,On-site,Operations,HR-105,Partially Approved,N/A,13.0,1
+REQ-1238,Chronic Medical,Physical workspace,1.3,21.75,1,0,0.0,Medium,Remote,Customer Support,HR-109,Approved,N/A,32.0,1
+REQ-1239,Chronic Medical,Assistive technology,19.5,27.48,0,0,0.0,Medium,Hybrid,Operations,HR-105,Approved,N/A,8.0,0
+REQ-1240,Cognitive/Neurological,Assistive technology,2.0,19.54,1,1,361.6,Low,On-site,Operations,HR-106,Denied,Undue Hardship,,1
+REQ-1241,Physical/Mobility,Physical workspace,6.5,12.74,0,0,0.0,Medium,Hybrid,Sales,HR-108,Approved,N/A,2.0,1
+REQ-1242,Physical/Mobility,Schedule modification,6.7,18.07,0,0,0.0,Medium,On-site,Customer Support,HR-101,Approved,N/A,15.0,1
+REQ-1243,Cognitive/Neurological,Assistive technology,7.3,24.62,1,0,0.0,Low,On-site,Operations,HR-102,Denied,Ineligible,,1
+REQ-1244,Cognitive/Neurological,Assistive technology,16.0,33.45,0,0,0.0,Low,On-site,Engineering,HR-109,Partially Approved,N/A,13.0,1
+REQ-1245,Cognitive/Neurological,Schedule modification,5.4,16.2,1,0,0.0,Low,Hybrid,Operations,HR-103,Denied,Lack of Documentation,,1
+REQ-1246,Mental Health,Assistive technology,2.0,16.02,1,0,0.0,Low,Hybrid,Engineering,HR-106,Denied,Undue Hardship,,0
+REQ-1247,Physical/Mobility,Physical workspace,20.8,14.94,1,0,0.0,Medium,On-site,Customer Support,HR-105,Approved,N/A,13.0,1
+REQ-1248,Mental Health,Physical workspace,0.4,14.32,1,1,1139.74,Low,Remote,Operations,HR-102,Partially Approved,N/A,21.0,1
+REQ-1249,Cognitive/Neurological,Policy modification,1.2,28.53,1,0,0.0,Medium,On-site,Sales,HR-107,Denied,Ineligible,,0
+REQ-1250,Physical/Mobility,Policy modification,14.8,29.97,1,1,222.4,Medium,On-site,Sales,HR-104,Approved,N/A,9.0,1
+REQ-1251,Mental Health,Physical workspace,5.9,23.39,1,0,0.0,High,On-site,Sales,HR-101,Approved,N/A,23.0,1
+REQ-1252,Mental Health,Physical workspace,8.4,20.16,0,0,0.0,Medium,On-site,Operations,HR-104,Denied,Lack of Documentation,,1
+REQ-1253,Cognitive/Neurological,Schedule modification,3.6,31.46,1,1,142.03,Low,On-site,Engineering,HR-106,Partially Approved,N/A,20.0,1
+REQ-1254,Physical/Mobility,Assistive technology,2.9,23.37,0,0,0.0,Medium,Hybrid,Finance,HR-107,Approved,N/A,9.0,1
+REQ-1255,Cognitive/Neurological,Assistive technology,1.4,27.95,1,0,0.0,Low,Hybrid,Engineering,HR-107,Denied,Lack of Documentation,,1
+REQ-1256,Physical/Mobility,Schedule modification,19.4,19.92,1,0,0.0,Medium,Hybrid,Finance,HR-107,Approved,N/A,7.0,1
+REQ-1257,Chronic Medical,Assistive technology,2.4,22.72,0,0,0.0,High,On-site,Finance,HR-103,Approved,N/A,32.0,1
+REQ-1258,Sensory,Assistive technology,3.4,16.31,1,0,0.0,Low,On-site,Customer Support,HR-106,Approved,N/A,5.0,1
+REQ-1259,Sensory,Policy modification,2.4,25.65,1,0,0.0,Low,On-site,Customer Support,HR-108,Approved,N/A,2.0,1
