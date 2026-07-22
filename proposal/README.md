@@ -13,24 +13,24 @@ This dataset contains **260 synthetic accommodation request records** generated 
 
 ## Data Dictionary
 
-| Column Name              | Data Type            | Missing Values | Description & Allowed Values                                                                                                                                               |
-| :----------------------- | :------------------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `request_id`             | String               | None           | Unique alphanumeric identifier for each request (e.g., `REQ-1000`).                                                                                                        |
-| `disability_category`    | String (Categorical) | None           | Primary health classification (`Mental Health`, `Chronic Medical`, `Cognitive/Neurological`, `Sensory`, `Physical/Mobility`).                                              |
-| `accommodation_category` | String (Categorical) | None           | Type of workplace adjustment requested (`Schedule modification`, `Assistive technology`, `Physical workspace`, `Policy modification`, `Communication aid`).                |
-| `employee_tenure_years`  | Float                | None           | Length of time the requesting employee has been with the company, in years (e.g., `4.3`).                                                                                  |
-| `hourly_wage_usd`        | Float                | None           | Hourly wage of the employee in USD (e.g., `22.46`).                                                                                                                        |
-| `has_college_degree`     | Integer (Binary)     | None           | Highest education level indicator (`1` = Degree held, `0` = No degree).                                                                                                    |
-| `is_cost_incurred`       | Integer (Binary)     | None           | Flag indicating if fulfilling the accommodation requires a direct financial expense (`1` = Direct cost, `0` = No cost).                                                    |
-| `accommodation_cost_usd` | Float                | None           | Total estimated financial cost in USD (`0.00` if `is_cost_incurred = 0`). Acts as a key control variable to distinguish cost barriers from systemic bias.                  |
-| `request_severity_level` | String (Ordinal)     | None           | Self-reported functional impact and urgency of the request (`Low`, `Medium`, `High`).                                                                                      |
-| `remote_work_status`     | String (Categorical) | None           | Primary work arrangement of the employee (`On-site`, `Hybrid`, `Remote`).                                                                                                  |
-| `department`             | String (Categorical) | None           | Employer business unit (`Sales`, `Engineering`, `Operations`, `Customer Support`, `Finance`).                                                                              |
-| `hr_reviewer_id`         | String (Categorical) | None           | Anonymized identifier of the assigned HR representative (`HR-101` through `HR-110`). Used to test for individual reviewer bias and inter-rater variance.                   |
-| `approval_status`        | String (Categorical) | None           | **Primary Target Variable 1:** Outcome decision (`Approved`, `Partially Approved`, `Denied`).                                                                              |
-| `denial_reason`          | String (Categorical) | 191 missing    | Primary rationale given if the request was denied (`Undue Hardship`, `Lack of Documentation`, `Ineligible`, `Alternative Offered`). Missing (`NaN`) for approved requests. |
-| `days_to_implement`      | Float / Integer      | 69 missing     | **Primary Target Variable 2:** Calendar days elapsed from request submission to full implementation. Missing (`NaN`) for denied requests.                                  |
-| `retained_6mo`           | Integer (Binary)     | None           | Long-term outcome: whether the employee remained employed 6 months after the request was evaluated (`1` = Retained, `0` = Resigned/Terminated).                            |
+| Column Name              | Data Type            | Description & Allowed Values                                                                                                                                |
+| :----------------------- | :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `request_id`             | String               | Unique alphanumeric identifier for each request (e.g., `REQ-1000`).                                                                                         |
+| `disability_category`    | String (Categorical) | Primary health classification (`Mental Health`, `Chronic Medical`, `Cognitive/Neurological`, `Sensory`, `Physical/Mobility`).                               |
+| `accommodation_category` | String (Categorical) | Type of workplace adjustment requested (`Schedule modification`, `Assistive technology`, `Physical workspace`, `Policy modification`, `Communication aid`). |
+| `employee_tenure_years`  | Float                | Length of time the requesting employee has been with the company, in years (e.g., `4.3`).                                                                   |
+| `hourly_wage_usd`        | Float                | Hourly wage of the employee in USD (e.g., `22.46`).                                                                                                         |
+| `has_college_degree`     | Integer (Binary)     | Highest education level indicator (`1` = Degree held, `0` = No degree).                                                                                     |
+| `is_cost_incurred`       | Integer (Binary)     | Flag indicating if fulfilling the accommodation requires a direct financial expense (`1` = Direct cost, `0` = No cost).                                     |
+| `accommodation_cost_usd` | Float                | Total estimated financial cost in USD (`0.00` if `is_cost_incurred = 0`). Acts as a key control variable to distinguish cost barriers from systemic bias.   |
+| `request_severity_level` | String (Ordinal)     | Self-reported functional impact and urgency of the request (`Low`, `Medium`, `High`).                                                                       |
+| `remote_work_status`     | String (Categorical) | Primary work arrangement of the employee (`On-site`, `Hybrid`, `Remote`).                                                                                   |
+| `department`             | String (Categorical) | Employer business unit (`Sales`, `Engineering`, `Operations`, `Customer Support`, `Finance`).                                                               |
+| `hr_reviewer_id`         | String (Categorical) | Anonymized identifier of the assigned HR representative (`HR-101` through `HR-110`). Used to test for individual reviewer bias and inter-rater variance.    |
+| `approval_status`        | String (Categorical) | **Primary Target Variable 1:** Outcome decision (`Approved`, `Partially Approved`, `Denied`).                                                               |
+| `denial_reason`          | String (Categorical) | Primary rationale given if the request was denied (`Undue Hardship`, `Lack of Documentation`, `Ineligible`, `Alternative Offered`).                         |
+| `days_to_implement`      | Float / Integer      | **Primary Target Variable 2:** Calendar days elapsed from request submission to full implementation.                                                        |
+| `retained_6mo`           | Integer (Binary)     | Long-term outcome: whether the employee remained employed 6 months after the request was evaluated (`1` = Retained, `0` = Resigned/Terminated).             |
 
 ---
 
