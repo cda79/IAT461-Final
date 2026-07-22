@@ -27,9 +27,9 @@ This dataset contains **260 synthetic accommodation request records** generated 
 | `remote_work_status`     | String (Categorical) | Primary work arrangement of the employee (`On-site`, `Hybrid`, `Remote`).                                                                                   |
 | `department`             | String (Categorical) | Employer business unit (`Sales`, `Engineering`, `Operations`, `Customer Support`, `Finance`).                                                               |
 | `hr_reviewer_id`         | String (Categorical) | Anonymized identifier of the assigned HR representative (`HR-101` through `HR-110`). Used to test for individual reviewer bias and inter-rater variance.    |
-| `approval_status`        | String (Categorical) | **Primary Target Variable 1:** Outcome decision (`Approved`, `Partially Approved`, `Denied`).                                                               |
+| `approval_status`        | String (Categorical) | Outcome decision (`Approved`, `Partially Approved`, `Denied`).                                                                                              |
 | `denial_reason`          | String (Categorical) | Primary rationale given if the request was denied (`Undue Hardship`, `Lack of Documentation`, `Ineligible`, `Alternative Offered`).                         |
-| `days_to_implement`      | Float / Integer      | **Primary Target Variable 2:** Calendar days elapsed from request submission to full implementation.                                                        |
+| `days_to_implement`      | Float / Integer      | Calendar days elapsed from request submission to full implementation.                                                                                       |
 | `retained_6mo`           | Integer (Binary)     | Long-term outcome: whether the employee remained employed 6 months after the request was evaluated (`1` = Retained, `0` = Resigned/Terminated).             |
 
 ---
@@ -39,7 +39,6 @@ This dataset contains **260 synthetic accommodation request records** generated 
 1. **Logical Missing Data (`NaN`):**
    - `denial_reason` contains missing values (`NaN`) for all requests with `approval_status == 'Approved'`.
    - `days_to_implement` contains missing values (`NaN`) for all requests with `approval_status == 'Denied'`.
-   - _Data preparation strategies must preserve these logical relationships rather than naively dropping rows._
 
 2. **Categorical Encoding:**
    - `request_severity_level` is **Ordinal** (`Low` < `Medium` < `High`).
