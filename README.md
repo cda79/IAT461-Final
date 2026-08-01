@@ -33,3 +33,31 @@ Right now they mostly spread this evenly across regions. A model that flags whet
 A good answer is a model that can flag whether a newly reported fire is more likely human caused or lightning caused, using its location, season, and ecozone, well enough that prevention planners would actually trust it to guide where they send patrols and fire ban notices.
 
 It should be especially good at catching human caused fires, since those are the ones prevention efforts can actually stop. If the model just repeats what planners already assume (for example, "cities have more human caused fires"), that would not be useful. It needs to point to specific regions or seasons where the current assumptions are wrong.
+
+## Column Description
+
+**FID:** FireID
+
+**SRC_AGENCY:** Agency (province, territory, parks) from which the fire data has been obtained.
+
+**FIRENAME:** Agency firename
+
+**LATITUDE:** Latitude
+
+**LONGITUDE:** Longitude
+
+**REP_DATE:** Date of fire reported by individual agencies
+
+**SIZE_HA:** Fire size in hectares
+
+**CAUSE:** Cause of fire
+
+- U: Unknown cause
+- L: Lightning caused fire
+- H: Human caused fire
+- H-PB: Prescribed burn (human caused)
+- Re: Reburn
+
+**PROTZONE:** Protection Zone as indicated by source agency. There is currently no official national standard that has been applied to this attribute.
+
+**ECOZONE:** Ecodistrict associated with fire point location.
