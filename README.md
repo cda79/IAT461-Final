@@ -14,9 +14,7 @@ BC Wildfire Service has a limited budget each year and is looking at three ways 
 
 2. **Option B:** Build more fire detection towers and cameras across the province.
 
-3. **Option C:** Use fire records from 2002 to 2021 to predict whether a newly reported fire is more likely caused by people or by lightning, based on where and when it started. This would help
-
-BCWS send the right kind of prevention effort, like public fire bans and patrols in areas prone to human caused fires, or early detection resources in areas prone to lightning caused fires, before the fire season gets bad.
+3. **Option C:** Use fire records from 2002 to 2021 to predict whether a newly reported fire is more likely caused by people or by lightning, based on where and when it started. This would help BCWS send the right kind of prevention effort, like public fire bans and patrols in areas prone to human caused fires, or early detection resources in areas prone to lightning caused fires, before the fire season gets bad.
 
 First, look at the past fire data (location, season, size, and cause) from 2002 to 2021 to check whether hiring more crews or building more towers is actually backed up by what the data shows, or if targeting prevention smarter (Option C) is the better use of money.
 
