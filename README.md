@@ -1,5 +1,11 @@
 # IAT461-Final -- Client : Manmeet
 
+Course: IAT 461
+Final Project – Data Scientist Role
+Client: Manmeet S.
+
+Data Scientist: Stin D.
+
 **Link to Dataset:** https://www.kaggle.com/datasets/ulasozdemir/wildfires-in-canada-19502021
 
 ## Entity: BC Wildfire Service (BCWS)
